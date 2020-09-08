@@ -1,2 +1,2 @@
 # Sankey-Example
-Jupyter notebook of sankey plot
+Jupyter notebook of basic sankey plot example
